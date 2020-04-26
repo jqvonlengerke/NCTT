@@ -4,6 +4,7 @@ Welcome to the NEW COMPUTER TRANSFER TOOL, made by Quint von Lengerke.
 
 This program was made for Computer Science 101 at the Colorado School of Mines. This app will most likely not be supported following 
 version 1.0
+
 Last Updated: 4/25/2020, version 1.0
 
 PURPOSE : Store links to your faveorite applications, so when you go to a new computer, you can install them with a click of a button,
