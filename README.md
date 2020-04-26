@@ -16,9 +16,11 @@ TUTORIAL: https://www.youtube.com/watch?v=MfrApWZ5sSo&feature=youtu.be
 Note: The .exe version only works on Windows devices, running Windows 10. 
 If on another OS, run .py version and make changes to lines 105 to 109 inorder to fit the correct file arcitecture of your device
 
+DOWNLOAD: It is reccomended you download the Tool kit, which helps keeps the EXE and its data file in the same location. 
 Steps to set up (WINDOWS) :
+
 1. Transfer tool kit to C drive, run .exe
-2.Input desired links.
+ 2.  Input desired links.
 3. Ensure .csv is saved in the same location as the .exe file.
 
 Steps to run (WINDOWS) :
