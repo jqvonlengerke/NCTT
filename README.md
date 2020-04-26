@@ -8,7 +8,8 @@ version 1.0
 Last Updated: 4/25/2020, version 1.0
 
 PURPOSE : Store links to your faveorite applications, so when you go to a new computer, you can install them with a click of a button,
-instead of needing to spend hours manually doing it. 
+instead of needing to spend hours manually doing it. You only need to spend the hours once ;) 
+
 TUTORIAL: https://www.youtube.com/watch?v=MfrApWZ5sSo&feature=youtu.be
 (This tutorial will automatically run when first running the app)
 
